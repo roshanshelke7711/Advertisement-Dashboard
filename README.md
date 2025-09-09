@@ -24,4 +24,4 @@ Cost per Conversion Analysis**
 Interactive slicers for Date Range & Channel
 
 Screenshots 
-[Advertisement dashbord](https://github.com/roshanshelke7711/Advertisement-Dashboard/blob/main/advertisement%20dashbord.png)
+![Advertisement dashbord](https://github.com/roshanshelke7711/Advertisement-Dashboard/blob/main/advertisement%20dashbord.png)
